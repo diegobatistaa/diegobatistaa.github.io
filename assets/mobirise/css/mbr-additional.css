@@ -411,6 +411,12 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box5-q H3 {
+  color: #ffffff;
+}
+#msg-box5-q P {
+  color: #ffffff;
+}
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -472,10 +478,12 @@ h6,
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #f7da64!important;
 }
-#content8-i .mbr-section-title,
-#content8-i p {
-  text-align: right;
-  color: #fff;
+#features7-n .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-n .iconbox {
+  background-color: #f7da64;
+  border-color: #f7da64;
 }
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
@@ -538,65 +546,65 @@ h6,
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
   color: #f7da64!important;
 }
-#ext_menu-5 .hide-buttons .nav-btn {
+#ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
-#ext_menu-5 .navbar-caption {
+#ext_menu-3 .navbar-caption {
   color: #ffffff;
 }
-#ext_menu-5 .navbar-toggler {
+#ext_menu-3 .navbar-toggler {
   color: #ffffff;
 }
-#ext_menu-5 .close-icon::before,
-#ext_menu-5 .close-icon::after {
+#ext_menu-3 .close-icon::before,
+#ext_menu-3 .close-icon::after {
   background-color: #ffffff;
 }
-#ext_menu-5 .link,
-#ext_menu-5 .dropdown-item {
+#ext_menu-3 .link,
+#ext_menu-3 .dropdown-item {
   color: #ffffff;
 }
-#ext_menu-5 .link {
+#ext_menu-3 .link {
   font-size: 0.75rem;
 }
-#ext_menu-5 .dropdown-item,
-#ext_menu-5 .nav-dropdown-sm .link {
+#ext_menu-3 .dropdown-item,
+#ext_menu-3 .nav-dropdown-sm .link {
   font-size: 0.812rem;
 }
-#ext_menu-5 .link:hover,
-#ext_menu-5 .dropdown-item:hover,
-#ext_menu-5 .link:focus,
-#ext_menu-5 .dropdown-item:focus {
+#ext_menu-3 .link:hover,
+#ext_menu-3 .dropdown-item:hover,
+#ext_menu-3 .link:focus,
+#ext_menu-3 .dropdown-item:focus {
   color: #f7da64;
 }
-#ext_menu-5 .link[aria-expanded="true"],
-#ext_menu-5 .dropdown-menu {
+#ext_menu-3 .link[aria-expanded="true"],
+#ext_menu-3 .dropdown-menu {
   background: #0e0e0e;
 }
-#ext_menu-5 .nav-dropdown-sm .link:focus,
-#ext_menu-5 .nav-dropdown-sm .link:hover,
-#ext_menu-5 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-5 .nav-dropdown-sm .dropdown-item:hover {
+#ext_menu-3 .nav-dropdown-sm .link:focus,
+#ext_menu-3 .nav-dropdown-sm .link:hover,
+#ext_menu-3 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3 .nav-dropdown-sm .dropdown-item:hover {
   background: #202020!important;
 }
-#ext_menu-5 .navbar,
-#ext_menu-5 .nav-dropdown-sm,
-#ext_menu-5 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-5 .nav-dropdown-sm .dropdown-menu {
+#ext_menu-3 .navbar,
+#ext_menu-3 .nav-dropdown-sm,
+#ext_menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3 .nav-dropdown-sm .dropdown-menu {
   background: #282828;
 }
-#ext_menu-5 .bg-color.transparent .link {
+#ext_menu-3 .bg-color.transparent .link {
   color: #ffffff;
   transition: none;
 }
-#ext_menu-5 .bg-color.transparent.opened .link {
+#ext_menu-3 .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#ext_menu-5 .bg-color.transparent.opened .link:hover,
-#ext_menu-5 .bg-color.transparent.opened .link:focus {
+#ext_menu-3 .bg-color.transparent.opened .link:hover,
+#ext_menu-3 .bg-color.transparent.opened .link:focus {
   color: #f7da64;
 }
-#ext_menu-5 .link[aria-expanded="true"],
-#ext_menu-5 .dropdown-item[aria-expanded="true"] {
+#ext_menu-3 .link[aria-expanded="true"],
+#ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #f7da64!important;
 }
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -660,64 +668,64 @@ h6,
 #ext_menu-4 .dropdown-item[aria-expanded="true"] {
   color: #f7da64!important;
 }
-#ext_menu-3 .hide-buttons .nav-btn {
+#ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
-#ext_menu-3 .navbar-caption {
+#ext_menu-5 .navbar-caption {
   color: #ffffff;
 }
-#ext_menu-3 .navbar-toggler {
+#ext_menu-5 .navbar-toggler {
   color: #ffffff;
 }
-#ext_menu-3 .close-icon::before,
-#ext_menu-3 .close-icon::after {
+#ext_menu-5 .close-icon::before,
+#ext_menu-5 .close-icon::after {
   background-color: #ffffff;
 }
-#ext_menu-3 .link,
-#ext_menu-3 .dropdown-item {
+#ext_menu-5 .link,
+#ext_menu-5 .dropdown-item {
   color: #ffffff;
 }
-#ext_menu-3 .link {
+#ext_menu-5 .link {
   font-size: 0.75rem;
 }
-#ext_menu-3 .dropdown-item,
-#ext_menu-3 .nav-dropdown-sm .link {
+#ext_menu-5 .dropdown-item,
+#ext_menu-5 .nav-dropdown-sm .link {
   font-size: 0.812rem;
 }
-#ext_menu-3 .link:hover,
-#ext_menu-3 .dropdown-item:hover,
-#ext_menu-3 .link:focus,
-#ext_menu-3 .dropdown-item:focus {
+#ext_menu-5 .link:hover,
+#ext_menu-5 .dropdown-item:hover,
+#ext_menu-5 .link:focus,
+#ext_menu-5 .dropdown-item:focus {
   color: #f7da64;
 }
-#ext_menu-3 .link[aria-expanded="true"],
-#ext_menu-3 .dropdown-menu {
+#ext_menu-5 .link[aria-expanded="true"],
+#ext_menu-5 .dropdown-menu {
   background: #0e0e0e;
 }
-#ext_menu-3 .nav-dropdown-sm .link:focus,
-#ext_menu-3 .nav-dropdown-sm .link:hover,
-#ext_menu-3 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-3 .nav-dropdown-sm .dropdown-item:hover {
+#ext_menu-5 .nav-dropdown-sm .link:focus,
+#ext_menu-5 .nav-dropdown-sm .link:hover,
+#ext_menu-5 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5 .nav-dropdown-sm .dropdown-item:hover {
   background: #202020!important;
 }
-#ext_menu-3 .navbar,
-#ext_menu-3 .nav-dropdown-sm,
-#ext_menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-3 .nav-dropdown-sm .dropdown-menu {
+#ext_menu-5 .navbar,
+#ext_menu-5 .nav-dropdown-sm,
+#ext_menu-5 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5 .nav-dropdown-sm .dropdown-menu {
   background: #282828;
 }
-#ext_menu-3 .bg-color.transparent .link {
+#ext_menu-5 .bg-color.transparent .link {
   color: #ffffff;
   transition: none;
 }
-#ext_menu-3 .bg-color.transparent.opened .link {
+#ext_menu-5 .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#ext_menu-3 .bg-color.transparent.opened .link:hover,
-#ext_menu-3 .bg-color.transparent.opened .link:focus {
+#ext_menu-5 .bg-color.transparent.opened .link:hover,
+#ext_menu-5 .bg-color.transparent.opened .link:focus {
   color: #f7da64;
 }
-#ext_menu-3 .link[aria-expanded="true"],
-#ext_menu-3 .dropdown-item[aria-expanded="true"] {
+#ext_menu-5 .link[aria-expanded="true"],
+#ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #f7da64!important;
 }
