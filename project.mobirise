@@ -651,7 +651,7 @@
           },
           "title2": "be a digital designer",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -844,10 +844,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#c2bab5",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">something goes here but idont know what</span>",
+          "title": "<span style=\"font-weight: normal;\">Some Things I Made</span>",
           "meta": ""
         },
         {
@@ -877,28 +877,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1502-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1502.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hulk-2000x1250-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-2000x1250.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/iron-man-2000x1250-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iron-man-2000x1250.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/logo-mdcps-2000x1250-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-mdcps-2000x1250.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
