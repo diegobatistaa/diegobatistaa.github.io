@@ -733,3 +733,6 @@ h6,
 #header3-v .mbr-section-subtitle {
   text-align: center;
 }
+#header3-v H3 {
+  font-size: 20px;
+}
