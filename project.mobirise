@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Diego",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -434,7 +434,7 @@
     "introduction.html": {
       "settings": {
         "main": true,
-        "title": "Diegos website",
+        "title": "Diego Batista",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -784,7 +784,7 @@
     },
     "index.html": {
       "settings": {
-        "title": "welcome",
+        "title": "Diego Batista",
         "meta_descr": "Web Site Builder Description",
         "order": 1
       },
