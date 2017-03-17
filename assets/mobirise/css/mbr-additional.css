@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -655,11 +656,14 @@ h6,
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #f7da64!important;
 }
-#msg-box5-q H3 {
-  color: #ffffff;
+
+#slider-1i H2 {
+  font-size: 48px;
 }
-#msg-box5-q P {
-  color: #ffffff;
+#slider-1i P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align: right;
 }
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
@@ -726,8 +730,8 @@ h6,
   color: #bcbcbc;
 }
 #features7-n .iconbox {
-  background-color: #f7da64;
-  border-color: #f7da64;
+  background-color: #faaf40;
+  border-color: #faaf40;
 }
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
