@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Diego",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1120,17 +1120,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/logo-mdcps-2000x1250-800x500.jpg",
                 "image": "@PROJECT_PATH@/assets/images/logo-mdcps-2000x1250.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rolo-candy-wrapper-complete-2000x1700-800x680.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rolo-candy-wrapper-complete-2000x1700.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
