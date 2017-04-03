@@ -155,18 +155,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-1r",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "text": "painting recreation",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "painting recreation"
         },
         {
           "_tags": [
@@ -284,18 +284,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-25-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-25-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-9-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-9-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-10-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-10-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -304,8 +304,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-19-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-11-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-11-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -314,8 +314,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-20-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-20-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-11-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-11-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -324,8 +324,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-21-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-21-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-15-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-15-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -334,8 +334,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-22-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-22-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-16-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-16-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -344,8 +344,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-17-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-17-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -354,10 +354,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -386,18 +386,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-25-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-25-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -406,8 +406,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-19-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-26-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-26-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -416,8 +416,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-20-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-20-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-28-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-28-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -426,8 +426,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-21-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-21-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-32-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-32-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -436,8 +436,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-22-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-22-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-34-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-34-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -446,8 +446,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-36-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-36-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -456,10 +456,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-38-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-38-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -488,18 +488,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-25-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-25-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-40-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-40-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-18-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-42-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-42-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -508,8 +508,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-19-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-44-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-44-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -518,8 +518,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-20-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-20-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-46-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-46-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -528,40 +528,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-21-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-21-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-47-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diego-batista-47-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-22-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-22-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-23-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/diego-batista-24-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1318,26 +1288,26 @@
             "paddingTop": "3",
             "paddingBottom": 3,
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/download-2000x1120.jpg",
+            "bgColor": "#a38f84",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/S0DSvJwLe8s?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
-            "showButton": false
+            "showButton": true
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http//youtube.com\" data-toolbar=\"-mbrBtnMove\">check out my story</a>"
         },
         {
           "_tags": [
